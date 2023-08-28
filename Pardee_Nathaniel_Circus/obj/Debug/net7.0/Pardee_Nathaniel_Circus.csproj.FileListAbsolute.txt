@@ -1,0 +1,15 @@
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/bin/Debug/net7.0/Pardee_Nathaniel_Circus
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/bin/Debug/net7.0/Pardee_Nathaniel_Circus.deps.json
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/bin/Debug/net7.0/Pardee_Nathaniel_Circus.runtimeconfig.json
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/bin/Debug/net7.0/Pardee_Nathaniel_Circus.dll
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/bin/Debug/net7.0/Pardee_Nathaniel_Circus.pdb
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.csproj.AssemblyReference.cache
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.GeneratedMSBuildEditorConfig.editorconfig
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.AssemblyInfoInputs.cache
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.AssemblyInfo.cs
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.csproj.CoreCompileInputs.cache
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.dll
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/refint/Pardee_Nathaniel_Circus.dll
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.pdb
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/Pardee_Nathaniel_Circus.genruntimeconfig.cache
+/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/obj/Debug/net7.0/ref/Pardee_Nathaniel_Circus.dll

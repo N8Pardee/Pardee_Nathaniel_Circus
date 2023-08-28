@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Pardee_Nathaniel_Circus.csproj",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "/home/nate/Documents/School/Pardee_Nathaniel_Circus/Pardee_Nathaniel_Circus/bin/Debug/net7.0/Pardee_Nathaniel_Circus.dll",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "preLaunchTask": "Build: Pardee_Nathaniel_Circus.csproj",
+            "presentation": {
+                "group": "ionide",
+                "hidden": false
+            }
+        }
+    ]
+}
