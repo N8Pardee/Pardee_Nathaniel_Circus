@@ -55,7 +55,7 @@ class Pardee_Nathaniel_Circus
         tshirts_sold = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Enter the total concession stand revenue: ");
-        food_revenue = Convert.ToInt32(Console.ReadLine());
+        food_revenue = Convert.ToDecimal32(Console.ReadLine());
 
         /**********************************
             Make calculations
